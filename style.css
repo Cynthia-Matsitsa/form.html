@@ -1,0 +1,80 @@
+#form{
+    border: solid 12px;
+    width: 60%;
+    margin: auto;
+}
+
+#input{
+    padding: 8px 12px;
+    border-radius: 5px;
+    border: 1px solid;
+}
+#button{
+    padding: 6px 12px;
+    background-color: blue;
+    border: 5px;
+    border-radius: 5px;
+}
+#mary{
+    border: solid 12px;
+    width: 60%;
+    margin: auto;
+
+}
+
+#input{
+    padding: 8px 12px;
+    border-radius: 5px;
+    border: 1px solid;
+
+}
+#button{
+    padding: 6px 12px;
+    background-color: blueviolet;
+    border: 5px;
+    border-radius: 5px; 
+}
+#tables{
+    font-family: Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    width: 100px;
+    
+}
+tables td #table th{
+    border: 1px solid ;
+    padding: 8px;
+
+}
+#table track{
+    background-color: cornsilk;
+}
+#table tr hoxe{
+    background-color: antiquewhite;
+}
+#table th{
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    background-color: cadetblue;
+    color: wheat;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+
